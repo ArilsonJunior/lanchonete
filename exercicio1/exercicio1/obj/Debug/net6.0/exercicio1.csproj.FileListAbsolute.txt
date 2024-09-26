@@ -1,0 +1,14 @@
+D:\exemplos da aula\exercicio1\exercicio1\bin\Debug\net6.0\exercicio1.exe
+D:\exemplos da aula\exercicio1\exercicio1\bin\Debug\net6.0\exercicio1.deps.json
+D:\exemplos da aula\exercicio1\exercicio1\bin\Debug\net6.0\exercicio1.runtimeconfig.json
+D:\exemplos da aula\exercicio1\exercicio1\bin\Debug\net6.0\exercicio1.dll
+D:\exemplos da aula\exercicio1\exercicio1\bin\Debug\net6.0\exercicio1.pdb
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.AssemblyInfoInputs.cache
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.AssemblyInfo.cs
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.csproj.CoreCompileInputs.cache
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.dll
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\refint\exercicio1.dll
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.pdb
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\exercicio1.genruntimeconfig.cache
+D:\exemplos da aula\exercicio1\exercicio1\obj\Debug\net6.0\ref\exercicio1.dll

@@ -1,0 +1,14 @@
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfoInputs.cache
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfo.cs
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.csproj.CoreCompileInputs.cache
+D:\exemplos da aula\aula2\aula2\bin\Debug\net6.0\aula2.exe
+D:\exemplos da aula\aula2\aula2\bin\Debug\net6.0\aula2.deps.json
+D:\exemplos da aula\aula2\aula2\bin\Debug\net6.0\aula2.runtimeconfig.json
+D:\exemplos da aula\aula2\aula2\bin\Debug\net6.0\aula2.dll
+D:\exemplos da aula\aula2\aula2\bin\Debug\net6.0\aula2.pdb
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.dll
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\refint\aula2.dll
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.pdb
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\aula2.genruntimeconfig.cache
+D:\exemplos da aula\aula2\aula2\obj\Debug\net6.0\ref\aula2.dll
